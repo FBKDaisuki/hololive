@@ -73,7 +73,7 @@
 	text-align: center;
 	font-size: 48px;
 	font-family: "華康唐風隸";
-	background: #0E0E0E;
+	background-color: #5edceb;
 	line-height: 200px;
 	color: #fff;
 }
@@ -85,13 +85,14 @@
 #cnt01{
 	padding-top: 400px;
 	padding-left: 200px;
-	background: url(../images/3C8.jpg);
-	font-size: 24px;
-	color: #7F7F7F;
+	background-image: url(../images/c7465cb72b26448a118e366396fbe61f1a9e5f93.jpg);
+	font-size: 38px;
+	color: #FFFFFF;
 	width: 100%;
 	height: 800px;
 	display: inline-table;
 	background-size: cover;
+	text-shadow: 0px 0px 3px #000000;
 }
 #cntn{
 	width: 100%;
@@ -99,21 +100,21 @@
 	text-align: center;
 	font-size: 48px;
 	font-family: "華康唐風隸";
-	background: #0E0E0E;
+	background-color: #5edceb;
 	line-height: 200px;
 	color: #fff;
 	opacity: 0.8;
 }
 #cnt02{
 	font-size: 58px;
-	background-image: url(../images/pack1.jpg);
+	background-image: url(../images/8f3JQIs.jpg);
 	color: #000;
 	background-attachment: fixed;
 	background-size: cover;
 	height: 1200px;
 }
 #cnt03{
-	background: url(../images/music7.jpg);
+	background-image: url(../images/EUbKq44UEAAVmo-.jpg);
 	padding: 200px;
 	color: #fff;
 	background-size: cover;
