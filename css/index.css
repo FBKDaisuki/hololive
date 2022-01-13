@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+#open{
+	height: 980px;
+	background-image: url(../images/bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% 980px;
+	background-attachment: fixed;
+	display: compact;
+}
+#top{
+	width: 100%;
+	height: 74px;
+	position: fixed;
+	color: #FFFFFF;
+	background-color: #27C7FF;
+	
+}
+#menu{
+	width: 375px;
+	height: 500px;
+	position: fixed;
+	top: 15%;
+	font-size: 48px;
+	display: inline-table;
+	transition: 1s;
+	left: -300px;
+}
+#menu:hover{
+	left: 25px;
+	transition: 1s;
+}
+#nav{
+	width: 300px;
+	height: 500px;
+	background: #FFFFFF;
+	border-radius: 30px;
+	padding-top: 5px;
+	display: inline-table;
+}
+#font{
+	width: 50px;
+	height: 150px;
+	display: inline-table;
+	position: relative;
+	top: 100px;
+	left: 25px;
+	text-shadow: 0px 0px 15px #FFFFFF,0px 0px 15px #FFFFFF;
+}
+.nav{
+	background:#fff;
+	height: 30%;
+	border-radius: 30px;
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	font-size: 24px;
+	line-height: 200px;
+	text-align: center;
+	transition: 0.5s;
+}
+.nav:hover{
+	background: #D8D8D8;
+	color: #418BFF;
+	transition: 0.5s;
+	-webkit-box-shadow: 0px 0px 10px 5px #EBEBEB;
+	box-shadow: 0px 0px 10px 5px #EBEBEB;
+}
+.cntname{
+	height: 200px;
+	text-align: center;
+	font-size: 48px;
+	font-family: "華康唐風隸";
+	background: #0E0E0E;
+	line-height: 200px;
+	color: #fff;
+}
+.cnt{
+	background-color: #000000;
+	padding: 200px;
+	color: #fff;
+}
+#cnt01{
+	padding-top: 400px;
+	padding-left: 200px;
+	background: url(../images/3C8.jpg);
+	font-size: 24px;
+	color: #7F7F7F;
+	width: 100%;
+	height: 800px;
+	display: inline-table;
+	background-size: cover;
+}
+#cntn{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	font-size: 48px;
+	font-family: "華康唐風隸";
+	background: #0E0E0E;
+	line-height: 200px;
+	color: #fff;
+	opacity: 0.8;
+}
+#cnt02{
+	font-size: 58px;
+	background-image: url(../images/pack1.jpg);
+	color: #000;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 1200px;
+}
+#cnt03{
+	background: url(../images/music7.jpg);
+	padding: 200px;
+	color: #fff;
+	background-size: cover;
+	height: 800px;
+	text-align: right;
+	font-size: 48px;
+}
+#footer{
+	background: #000000;
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+	height: 150px;
+	padding: 50px;
+}
