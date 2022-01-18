@@ -209,6 +209,7 @@ img {
 	vertical-align: middle;
 	border-style: none;
 	height: 74px;
+	background-image: url(url);
 }
 
 svg:not(:root) {
